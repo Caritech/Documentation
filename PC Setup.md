@@ -88,5 +88,32 @@ regcode   :-   3AG46-JJ48E-CEACC-8E6EW-ECUAW
 
 - best Code Editor for remote ftp development
 
+## Cyberduck
+
+https://cyberduck.io/download/
+
+- a powerful ftp client
+
+## Typora
+
+https://typora.io/#windows
+
+- markdown viewer / editor
+- markdown is used for writing documentation
+
+## Skype
+
+https://www.skype.com/en/get-skype/
+
+- vstaff using skype for communication
+
+## Winmerge
+
+https://winmerge.org/?lang=en
+
+- compare code different
+
+
+
 
 
